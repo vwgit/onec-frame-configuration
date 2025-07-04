@@ -31,4 +31,6 @@ c4419b61-f270-4ef7-9f09-5dee4193c99e
 {5,9aa96978-d094-4e1c-a6d1-560bd4cd49f3,"",4},
 {5,9aa96978-d094-4e1c-a6d1-560bd4cd49f3,"Справочник.Склады",4},
 {4,"_$Data$_.Unpost",17},
-{4,"_$Transaction$_.Rollback",18}
+{4,"_$Transaction$_.Rollback",18},
+{4,"_$InfoBase$_.DumpStart",19},
+{4,"_$InfoBase$_.DumpFinish",20}
